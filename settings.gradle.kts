@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Runtimepermission"
 include(":app")
- 
+//include (":app', ':imageslider")
